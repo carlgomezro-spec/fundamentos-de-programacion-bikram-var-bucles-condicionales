@@ -43,7 +43,7 @@ for (let i = 0; i < 10; i++) {
 let postI = 0;
 let postJ = 0;
 
-for (let i = 0; i < 11, i++) {
+for (let i = 0; i < 11; i++) {
     postI += postJ++;
 }
 
@@ -78,7 +78,7 @@ const booleanoMix1 = (booleano1 && (TAU / 2 === PI)) || (variableValorNumerico >
 const seisNoEsNueve = 6 !== 9;
 
 //19
-booleanoMix2 = variableValorNumerico > 0 || > - (MiNumeroFav * TAU);
+const booleanoMix2 = variableValorNumerico > 0 ||  variableValorNumerico <- (MiNumeroFav * TAU);
 
 // Operadores
 
