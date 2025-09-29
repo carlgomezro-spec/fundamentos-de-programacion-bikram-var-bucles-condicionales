@@ -61,7 +61,7 @@ for (let i = 0; i<10; i++) {
 let variableValorNumerico = 2;
 
 //14
-const MiNombre = Carlos;
+const MiNombre = "Carlos";
 
 //15
 const MiNumeroFav = 6;
