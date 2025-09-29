@@ -69,7 +69,7 @@ const MiNumeroFav = 6;
 // Booleanos
 
 //16 
-const booleano0r = booleano1 || booleano2;
+const booleanoOr = booleano1 || booleano2;
 
 //17
 const booleanoMix1 = (booleano1 && (TAU / 2 === PI)) || (variableValorNumerico >= MiNumeroFav);
@@ -96,7 +96,7 @@ const valorDivision = MiNumeroFav / 3;
 
 //Bucles
 //24
-const contarHasta10 = 0
+let contarHasta10 = 0
 while (contarHasta10 !== 10) {
     contarHasta10++
 };
